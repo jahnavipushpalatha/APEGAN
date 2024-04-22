@@ -1,0 +1,1 @@
+Currently, as adversarial attacks are on the rise, so are the defenses. One defense mechanism gaining traction is the use of Generative Adversarial Networks (GANs). GANs and APEGANs share similarities, but in GANs, clean data is passed as input to the generator, whereas in APEGANs, adversarial examples are utilized as input.
